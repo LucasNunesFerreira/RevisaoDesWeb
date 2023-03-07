@@ -30,7 +30,7 @@
 
     $media = ($nota1 + $nota2 + $nota3 + $nota4) / 4;
     echo "<p>Sua média é: $media</p>";
-  }
+ }
 ?>
     
 </body>
