@@ -28,7 +28,7 @@
         }
 
         echo "<br><br><p>$mensagem!</p>";
-    }
+}
    ?>
     
 </body>
